@@ -8,7 +8,8 @@
 
 <br/>
 
-[![Live Demo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dev-Chandan404/Post-Feed-app)
+[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://postfeedapp-neon.vercel.app/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dev-Chandan404/Post-Feed-app)
 [![Report Bug](https://img.shields.io/badge/REPORT_BUG-ff69b4?style=for-the-badge&logo=bugsnag&logoColor=white)](https://github.com/Dev-Chandan404/Post-Feed-app/issues)
 [![Request Feature](https://img.shields.io/badge/REQUEST_FEATURE-00CED1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dev-Chandan404/Post-Feed-app/discussions)
 
@@ -33,6 +34,17 @@
 *A minimal social feed app for quick post sharing*
 
 </div>
+
+---
+
+## 🌐 Live Preview
+
+> 🔗 **[https://postfeedapp-neon.vercel.app/](https://postfeedapp-neon.vercel.app/)**
+
+| Service | URL | Status |
+|---------|-----|--------|
+| 🖥️ Frontend | [postfeedapp-neon.vercel.app](https://postfeedapp-neon.vercel.app/) | ![Vercel](https://img.shields.io/badge/Vercel-Live-00C853?style=flat-square&logo=vercel) |
+| ⚙️ Backend | Render.com | ![Render](https://img.shields.io/badge/Render-Live-46E3B7?style=flat-square&logo=render) |
 
 ---
 
