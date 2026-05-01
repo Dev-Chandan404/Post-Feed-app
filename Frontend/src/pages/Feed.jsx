@@ -11,7 +11,7 @@ const Feed = () => {
     ])
     useEffect(() => {
 
-        axios.get("http://localhost:3000/posts")
+        axios.get("https://post-feed-backend.onrender.com/posts")
             .then((res) => {
                 setPosts(res.data.posts)
             })
