@@ -36,7 +36,6 @@
 </div>
 
 ---
-<div align="center">
 
 ## 🌐 Live Preview
 
@@ -195,7 +194,6 @@ NODE_ENV=development
 - [ ] Search functionality
 
 ---
-</div>
 <div align="center">
 
 ## 📄 License
